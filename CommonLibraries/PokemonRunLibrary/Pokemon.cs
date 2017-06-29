@@ -21,6 +21,6 @@ namespace PokemonRunLibrary
 		public List<PokemonType> Type = new List<PokemonType>();
 		public int PowerUpCandy;
 		public int PowerStardust;
-		public int EvoleCandy;
+		public int EvolveCandy;
 	}
 }
